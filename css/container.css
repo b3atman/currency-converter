@@ -1,0 +1,20 @@
+.body {
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(221, 218, 218);
+}
+
+.container {
+    max-width: 600px;
+    padding: 10px 20px;
+    margin: 0 auto;
+}
+
+.footer {
+    padding: 5px 0;
+    font-style: italic;
+}
+
+.footer__item {
+    list-style-type: none;
+    padding: 3px 0;
+}
