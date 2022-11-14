@@ -5,10 +5,13 @@
     background-size: cover;
     background-position: center;
     background-attachment: scroll;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .container {
-    max-width: 600px;
+    flex-basis: 600px;
     padding: 10px 20px;
     margin: 0 auto;
 }
